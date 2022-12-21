@@ -1,0 +1,8 @@
+C:\Users\Hafiz\source\repos\Thread\bin\Debug\Thread.exe.config
+C:\Users\Hafiz\source\repos\Thread\bin\Debug\Thread.exe
+C:\Users\Hafiz\source\repos\Thread\bin\Debug\Thread.pdb
+C:\Users\Hafiz\source\repos\Thread\obj\Debug\Thread.csproj.AssemblyReference.cache
+C:\Users\Hafiz\source\repos\Thread\obj\Debug\Thread.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hafiz\source\repos\Thread\obj\Debug\Thread.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\source\repos\Thread\obj\Debug\Thread.exe
+C:\Users\Hafiz\source\repos\Thread\obj\Debug\Thread.pdb
